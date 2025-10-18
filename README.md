@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theroguevigilante&label=Profile%20views&color=0e75b6&style=flat" alt="theroguevigilante" /> </p>
 
-- 🔭 I’m currently working on [chipeu](https://github.com/theroguevigilante/chipeu)
+- 🔭 I’m currently working on idk.
 
 - 🌱 Currently learing **Rust** and trying to wrap my mind around the borrow checker.
 
