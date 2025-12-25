@@ -19,6 +19,7 @@
 <a href="https://naimish.xyz/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="naimish.xyz/rss.xml" height="30" width="40" /></a>
 </p>
 
+<!--
 <table>
   <tr>
     <td>
@@ -29,6 +30,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <table>
   <tr>
