@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theroguevigilante&label=Profile%20views&color=0e75b6&style=flat" alt="theroguevigilante" /> </p>
 
-- 🔭 I’m currently working on idk.
-
-- 🌱 Currently learing **Rust** and trying to wrap my mind around the borrow checker.
-
 - 📝 You can find some stuff that I write on [https://naimish.xyz/articles](https://naimish.xyz/articles)
 
 - 📫 Reach me at https://naimish.xyz/contact
 
-- ⚡ Fun fact **GNU's not Unix**
+- 🐃 Btw, **GNU's not Unix**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
